@@ -3,6 +3,8 @@
 // port. A short straight "neck" tapers the diameter down from the sleeve's
 // size to the collar's size, then a 90-degree bend (constant diameter)
 // turns the collar to point horizontally.
+//
+// Tool: WEN 9-Inch Benchtop Band Saw (BA3959).
 // Axes: sleeve is vertical (Z) sitting on the print bed at Z=0; the bend
 // turns over so the collar ends up horizontal, pointing along +X.
 //
